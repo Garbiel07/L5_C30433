@@ -9,9 +9,9 @@ Para make se necesita correr el comando make en la raíz del proyecto
 Para cmake se debe correr el comando cmake .. dentro del directorio build
 
 # Meson
-Para meson se deben correr las siguientes lineas en la raíz del proyecto
-meson setup build
-meson compile -C build
+Para meson se deben correr las siguientes lineas en la raíz del proyecto <br />
+meson setup build <br />
+meson compile -C build <br />
 
 
 
